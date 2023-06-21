@@ -1,3 +1,10 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'D. D. Gant'
+description = "A reprieve for world-weary adventurers"
+favicon = "images/favicon1.png"
+theme = 'hugo-bearcub'
+enableRobotsTXT = true
+name = 'D. D. Gant'
+blogPath = "/blog"
+madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
