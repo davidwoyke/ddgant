@@ -7,4 +7,22 @@ theme = 'hugo-bearcub'
 enableRobotsTXT = true
 name = 'D. D. Gant'
 blogPath = "/blog"
+sectionPagesMenu = 'main'
 madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[menu]
+[[menu.main]]
+name = 'dtrpg'
+url = 'https://www.drivethrurpg.com/browse/pub/14233/D-D-Gant'
+weight = '100'
+[[menu.main]]
+name = 'itch.io'
+url = 'https://ddgant.itch.io/'
+weight = '110'
+[[menu.main]]
+name = 'ko-fi'
+url = 'https://ko-fi.com/ddgant'
+weight = '120'
