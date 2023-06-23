@@ -27,6 +27,11 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  color:#d8ebf3;
+  text-decoration:none
+}
+
 .title {
   text-decoration: none;
   border: 0;
