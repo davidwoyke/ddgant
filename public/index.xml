@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Landing on D. D. Gant</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Landing on D. D. Gant</description>
+    <title>land on D. D. Gant</title>
+    <link>http://www.ddgant.com/</link>
+    <description>Recent content in land on D. D. Gant</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.ddgant.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact</title>
-      <link>http://example.org/contact/</link>
+      <title>chargen</title>
+      <link>http://www.ddgant.com/chargen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact/</guid>
-      <description>Faint communication with a non-human entity If you are interested in collaborating, need a writer, editor, friendly consultation, or just want to talk, I&amp;rsquo;m ddgant on Discord. Email me at ddgant.rpg@gmail.com.
-itch.io DTRPG Ko-fi</description>
+      <guid>http://www.ddgant.com/chargen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>http://www.ddgant.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ddgant.com/contact/</guid>
+      <description>Faint contact with a non-human entity If you are interested in collaborating, need a writer, editor, friendly consultation, or just want to talk, I&amp;rsquo;m ddgant on Discord. Email me at ddgant.rpg@gmail.com.</description>
+    </item>
+    
+    <item>
+      <title>tools</title>
+      <link>http://www.ddgant.com/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ddgant.com/tools/</guid>
+      <description></description>
     </item>
     
   </channel>
