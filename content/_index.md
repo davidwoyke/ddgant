@@ -12,3 +12,5 @@ title = 'land'
 I thought I heard you, down here in the dark. Take some [tools](tools) for the journey. I'll meet up with you later on down the line. We can [talk](contact) then. 
 
 ![image](white_lantern.png)
+
+!!
