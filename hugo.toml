@@ -5,9 +5,7 @@ description = "A reprieve for world-weary adventurers"
 favicon = "images/favicon1.png"
 enableRobotsTXT = true
 name = 'D. D. Gant'
-blogPath = "/blog"
 sectionPagesMenu = 'main'
-madeWith = "Made with [Bear Cub](https://github.com/clente/hugo-bearcub)"
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
