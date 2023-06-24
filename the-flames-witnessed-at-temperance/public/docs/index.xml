@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on The Flames Witnessed at Temperance</title>
+    <link>http://www.ddgant.com/the-flames-witnessed-at-temperance/docs/</link>
+    <description>Recent content in Docs on The Flames Witnessed at Temperance</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://www.ddgant.com/the-flames-witnessed-at-temperance/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://www.ddgant.com/the-flames-witnessed-at-temperance/docs/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ddgant.com/the-flames-witnessed-at-temperance/docs/about/</guid>
+      <description>About#“The Flames Witnessed at Temperance” is a tiny adventure location designed for about 6 characters of levels 1– 2. It is heavily inspired by the dungeon synth album “The Sleeping Wizard” by Umbría.
+Maps at center. Wandering monsters table on back.
+Concept, writing, design, and layout by D. D. Gant. Cover art by Joan Llopis Doménech.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://www.ddgant.com/the-flames-witnessed-at-temperance/docs/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.ddgant.com/the-flames-witnessed-at-temperance/docs/history/</guid>
+      <description>History#The isolated islet of Temperance floats a hundred fathoms from the stony shore of the grey sea. A weathered structure of brick and plank supports a decrepit lighthouse there. Local legend speculates the place was once home to an eccentric scholar and practicer of magics. For the better part of a century, the lighthouse has stood dormant, and the forces of nature have all but reclaimed the utilitarian facade.</description>
+    </item>
+    
+  </channel>
+</rss>

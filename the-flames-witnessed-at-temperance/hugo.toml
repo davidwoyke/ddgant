@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.ddgant.com/the-flames-witnessed-at-temperance/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'The Flames Witnessed at Temperance'
+theme = 'hugo-book'
