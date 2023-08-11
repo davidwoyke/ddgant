@@ -39,7 +39,22 @@ a:visited {
 
 a:hover {
   color:#b0d5e8;
-  text-decoration:none;
+  text-decoration:underline;
+}
+
+a.tfwat:link {
+  color:#e19d90;
+  text-decoration: none;
+}
+
+a.tfwat:visited {
+  color:#e19d90;
+  text-decoration: none;
+}
+
+a.tfwat:hover {
+  color:#e9b9af;
+  text-decoration:underline;
 }
 
 .title {
