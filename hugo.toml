@@ -23,3 +23,7 @@ weight = '110'
 name = 'ko-fi'
 url = 'https://ko-fi.com/ddgant'
 weight = '120'
+[[menu.main]]
+name = 'youtube'
+url = 'https://www.youtube.com/@ddgant'
+weight = '130'
