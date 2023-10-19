@@ -19,4 +19,9 @@ title = 'tools'
 <iframe src="https://null.perchance.org/npc-adventuring-party" style="width:100%; height:700px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/bx-treasure-generator" style="width:100%; height:1200px; border:none;"></iframe>
+<p>
+<iframe src="https://null.perchance.org/bx-sentient-swords" style="width:100%; height:700px; border:none;"></iframe>
+<p>
+<iframe src="https://null.perchance.org/herb-and-plant-generator" style="width:100%; height:275px; border:none;"></iframe>
+
 
