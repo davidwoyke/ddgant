@@ -12,6 +12,10 @@ title = 'tools'
 <p>
 <iframe src="https://null.perchance.org/bx-retainers" style="width:100%; height:700px; border:none;"></iframe>
 <p>
+<iframe src="https://null.perchance.org/bx-settlements" style="width:100%; height:700px; border:none;"></iframe>
+<p>
+<iframe src="https://null.perchance.org/bx-strongholds" style="width:100%; height:700px; border:none;"></iframe>
+<p>
 <iframe src="https://null.perchance.org/magic-items-scrolls" style="width:100%; height:275px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/magic-items-potions" style="width:100%; height:275px; border:none;"></iframe>
