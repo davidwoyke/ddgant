@@ -8,9 +8,9 @@ title = 'tools'
       class = 'center'
 +++
 <p>
-<iframe src="https://null.perchance.org/gants-fantasy-name-generator" style="width:100%; height:100%; border:none;"></iframe>
+<iframe src="https://null.perchance.org/gants-fantasy-name-generator" style="width:200px; height:100%; border:none;"></iframe>
 <p>
-<iframe src="https://null.perchance.org/bx-retainers" style="width:100%; height:100%; border:none;"></iframe>
+<iframe src="https://null.perchance.org/bx-retainers" style="width:100%; height:700px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/bx-settlements" style="width:100%; height:800px; border:none;"></iframe>
 <p>
@@ -20,11 +20,11 @@ title = 'tools'
 <p>
 <iframe src="https://null.perchance.org/magic-items-potions" style="width:100%; height:275px; border:none;"></iframe>
 <p>
-<iframe src="https://null.perchance.org/npc-adventuring-party" style="width:100%; height:700px; border:none;"></iframe>
+<iframe src="https://null.perchance.org/npc-adventuring-party" style="width:100%; height:600px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/sage-generator" style="width:100%; height:800px; border:none;"></iframe>
 <p>
-<iframe src="https://null.perchance.org/bx-sentient-swords" style="width:100%; height:700px; border:none;"></iframe>
+<iframe src="https://null.perchance.org/bx-sentient-swords" style="width:100%; height:600px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/herb-and-plant-generator" style="width:100%; height:275px; border:none;"></iframe>
 <p>
