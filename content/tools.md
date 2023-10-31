@@ -8,9 +8,9 @@ title = 'tools'
       class = 'center'
 +++
 <p>
-<iframe src="https://null.perchance.org/gants-fantasy-name-generator" style="width:100%; height:275px; border:none;"></iframe>
+<iframe src="https://null.perchance.org/gants-fantasy-name-generator" style="width:100%; height:100%; border:none;"></iframe>
 <p>
-<iframe src="https://null.perchance.org/bx-retainers" style="width:100%; height:700px; border:none;"></iframe>
+<iframe src="https://null.perchance.org/bx-retainers" style="width:100%; height:100%; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/bx-settlements" style="width:100%; height:800px; border:none;"></iframe>
 <p>
