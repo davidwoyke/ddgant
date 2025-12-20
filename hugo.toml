@@ -1,0 +1,30 @@
+baseURL = 'http://www.ddgant.com/'
+languageCode = 'en-us'
+title = 'D. D. Gant'
+theme = "hugo-bearcub"
+description = 'A reprieve for world-weary adventurers'
+favicon = 'favicon.ico'
+enableRobotsTXT = true
+name = 'D. D. Gant'
+sectionPagesMenu = 'main'
+
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
+[menu]
+[[menu.main]]
+name = 'dtrpg'
+url = 'https://www.drivethrurpg.com/browse/pub/14233/D-D-Gant'
+weight = '100'
+[[menu.main]]
+name = 'itch.io'
+url = 'https://ddgant.itch.io/'
+weight = '110'
+[[menu.main]]
+name = 'ko-fi'
+url = 'https://ko-fi.com/ddgant'
+weight = '120'
+[[menu.main]]
+name = 'youtube'
+url = 'https://www.youtube.com/@ddgant'
+weight = '130'
