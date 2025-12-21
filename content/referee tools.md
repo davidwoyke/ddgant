@@ -1,5 +1,5 @@
 +++
-title = 'referee tools'
+title = 'Reftools'
 style = 'style.css'
 [menu]
   [menu.main]
@@ -21,7 +21,7 @@ style = 'style.css'
 <p>
 <iframe src="https://null.perchance.org/bx-settlements" style="width:100%; height:1000px; border:none;"></iframe>
 <p>
-<iframe src="https://null.perchance.org/sage-generator" style="width:100%; height:1000px; border:none;"></iframe>
+<iframe src="https://null.perchance.org/sage-generator" style="width:100%; height:1100px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/bx-treasure-generator" style="width:100%; height:1200px; border:none;"></iframe>
 

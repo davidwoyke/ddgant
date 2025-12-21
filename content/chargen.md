@@ -1,5 +1,5 @@
 +++
-title = 'chargen'
+title = 'Chargen'
 style = 'style.css'
 [menu]
   [menu.main]

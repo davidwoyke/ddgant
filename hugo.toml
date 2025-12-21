@@ -13,7 +13,7 @@ sectionPagesMenu = 'main'
 
 [menu]
 [[menu.main]]
-name = 'dtrpg'
+name = 'DTRPG'
 url = 'https://www.drivethrurpg.com/browse/pub/14233/D-D-Gant'
 weight = '100'
 [[menu.main]]
@@ -21,10 +21,10 @@ name = 'itch.io'
 url = 'https://ddgant.itch.io/'
 weight = '110'
 [[menu.main]]
-name = 'ko-fi'
+name = 'Ko-fi'
 url = 'https://ko-fi.com/ddgant'
 weight = '120'
 [[menu.main]]
-name = 'youtube'
+name = 'YouTube'
 url = 'https://www.youtube.com/@ddgant'
 weight = '130'
