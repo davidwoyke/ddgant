@@ -152,7 +152,7 @@ ul.blog-posts a:link {
 
 ul.blog-posts {
   list-style-type: none;
-  padding: unset;
+  padding: 20px;
 }
 
 ul.blog-posts li {
