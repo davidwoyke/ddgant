@@ -150,9 +150,14 @@ ul.blog-posts a:link {
   text-decoration: none;
 }
 
+ul.blog-posts a:hover {
+  color:#e9b9af;
+  text-decoration:underline;
+}
+
 ul.blog-posts {
   list-style-type: none;
-  padding: 20px;
+  padding: unset;
 }
 
 ul.blog-posts li {
