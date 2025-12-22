@@ -1,4 +1,7 @@
 <a class="skip-link" href="#main-content">{{ i18n "skip-link" }}</a>
+
+<a href="{{ relURL .Site.Home.RelPermalink }}" class="title"><h1>{{ .Site.Title }}</h1></a>
+<nav>{{- partial "nav.html" . -}}</nav>
 <head>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville">
     <style>
@@ -6,6 +9,4 @@
       font-family: "Libre Baskerville", sans-serif;
     }
     </style>
-    <a href="{{ relURL .Site.Home.RelPermalink }}" class="title"><h1>{{ .Site }}</h1></a>
-<nav>{{- partial "nav.html" . -}}</nav>
     </head>
