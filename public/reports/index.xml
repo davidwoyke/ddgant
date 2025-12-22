@@ -10,11 +10,12 @@
     <atom:link href="http://www.ddgant.com/reports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>genesis</title>
-      <link>http://www.ddgant.com/reports/test/</link>
+      <link>http://www.ddgant.com/reports/genesis/</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.ddgant.com/reports/test/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
+      <guid>http://www.ddgant.com/reports/genesis/</guid>
+      <description>&lt;p&gt;Nothing here yet&amp;hellip;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Nothing here yet&hellip;</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
