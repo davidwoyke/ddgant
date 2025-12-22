@@ -1,5 +1,5 @@
 +++
-title = 'Reftools'
+title = 'reftools'
 style = 'style.css'
 [menu]
   [menu.main]
@@ -20,6 +20,10 @@ style = 'style.css'
 <iframe src="https://null.perchance.org/gants-fantasy-npc-party-generator" style="width:100%; height:700px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/bx-settlements" style="width:100%; height:1000px; border:none;"></iframe>
+<p>
+<iframe src="https://null.perchance.org/gants-fantasy-inn-generator" style="width:100%; height:700px; border:none;"></iframe>
+<p>
+<iframe src="https://null.perchance.org/gants-fantasy-market-generator" style="width:100%; height:300px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/sage-generator" style="width:100%; height:1100px; border:none;"></iframe>
 <p>

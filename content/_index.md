@@ -1,5 +1,5 @@
 ﻿+++
-title = 'Land'
+title = 'land'
 style = 'style.css'
 [menu]
   [menu.main]

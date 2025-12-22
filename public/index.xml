@@ -6,9 +6,18 @@
     <description>Recent content on D. D. Gant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 21 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.ddgant.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chargen</title>
+      <title>genesis</title>
+      <link>http://www.ddgant.com/reports/test/</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.ddgant.com/reports/test/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>chargen</title>
       <link>http://www.ddgant.com/chargen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://www.ddgant.com/chargen/</guid>
@@ -18,11 +27,11 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Reftools</title>
+      <title>reftools</title>
       <link>http://www.ddgant.com/referee-tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://www.ddgant.com/referee-tools/</guid>
-      <description>&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-name-generator&#34; style=&#34;width:100%; height:200px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/une-npc-interaction-emulator&#34; style=&#34;width:100%; height:200px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-npc-generator&#34; style=&#34;width:100%; height:700px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/bx-retainers&#34; style=&#34;width:100%; height:700px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-npc-party-generator&#34; style=&#34;width:100%; height:700px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/bx-settlements&#34; style=&#34;width:100%; height:1000px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/sage-generator&#34; style=&#34;width:100%; height:1100px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/bx-treasure-generator&#34; style=&#34;width:100%; height:1200px; border:none;&#34;&gt;&lt;/iframe&gt;</description>
+      <description>&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-name-generator&#34; style=&#34;width:100%; height:200px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/une-npc-interaction-emulator&#34; style=&#34;width:100%; height:200px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-npc-generator&#34; style=&#34;width:100%; height:700px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/bx-retainers&#34; style=&#34;width:100%; height:700px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-npc-party-generator&#34; style=&#34;width:100%; height:700px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/bx-settlements&#34; style=&#34;width:100%; height:1000px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-inn-generator&#34; style=&#34;width:100%; height:700px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/gants-fantasy-market-generator&#34; style=&#34;width:100%; height:300px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/sage-generator&#34; style=&#34;width:100%; height:1100px; border:none;&#34;&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&#xD;&#xA;&lt;iframe src=&#34;https://null.perchance.org/bx-treasure-generator&#34; style=&#34;width:100%; height:1200px; border:none;&#34;&gt;&lt;/iframe&gt;</description>
       <content:encoded><![CDATA[<p>
 <iframe src="https://null.perchance.org/gants-fantasy-name-generator" style="width:100%; height:200px; border:none;"></iframe>
 <p>
@@ -35,6 +44,10 @@
 <iframe src="https://null.perchance.org/gants-fantasy-npc-party-generator" style="width:100%; height:700px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/bx-settlements" style="width:100%; height:1000px; border:none;"></iframe>
+<p>
+<iframe src="https://null.perchance.org/gants-fantasy-inn-generator" style="width:100%; height:700px; border:none;"></iframe>
+<p>
+<iframe src="https://null.perchance.org/gants-fantasy-market-generator" style="width:100%; height:300px; border:none;"></iframe>
 <p>
 <iframe src="https://null.perchance.org/sage-generator" style="width:100%; height:1100px; border:none;"></iframe>
 <p>
