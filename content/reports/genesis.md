@@ -1,5 +1,4 @@
 +++
-title = 'genesis'
 style = 'style.css'
 date = '2025-12-21'
 +++
