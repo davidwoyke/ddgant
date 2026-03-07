@@ -14,6 +14,10 @@ sectionPagesMenu = 'main'
 
 [menu]
 [[menu.main]]
+name = 'reports'
+url = 'https://ddgant.com/reports'
+weight = '40'
+[[menu.main]]
 name = 'dtrpg'
 url = 'https://www.drivethrurpg.com/browse/pub/14233/D-D-Gant'
 weight = '100'
